@@ -1,4 +1,4 @@
-// src/components/Home.js
+// src/components/Home.jsx
 import React from "react";
 import "../styles/Home.css";
 
@@ -11,7 +11,7 @@ function Home() {
         dynamic and responsive web applications.
       </p>
       <button>
-        <a href="projects">View My Work</a>
+        <a href="/projects">View My Work</a>
       </button>
     </section>
   );
