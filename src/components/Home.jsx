@@ -11,7 +11,7 @@ function Home() {
         dynamic and responsive web applications.
       </p>
       <button>
-        <a href="/projects">View My Work</a>
+        <a href="projects">View My Work</a>
       </button>
     </section>
   );
