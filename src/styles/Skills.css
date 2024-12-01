@@ -1,0 +1,17 @@
+.skills {
+    padding: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  .skill-category {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  ul {
+    list-style: disc inside;
+  }
+  
