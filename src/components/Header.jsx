@@ -8,7 +8,7 @@ function Header() {
     <header>
       <h1>Arun Bongi</h1>
       <nav>
-        <Link to="/portfolio/">Home</Link>
+        <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/projects">Projects</Link>
         <Link to="/experience">Experience</Link>
