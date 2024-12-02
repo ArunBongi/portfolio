@@ -14,7 +14,7 @@ function Projects() {
       title: "Todo List App",
       description: "A to-do list app to manage tasks.",
       tech: "React, JavaScript, HTML, CSS",
-      link: "https://github.com/yourusername/todo-list",
+      link: "https://github.com/arunbongi/todo-list",
     },
     {
       title: "Weather App",
@@ -22,7 +22,21 @@ function Projects() {
       tech: "JavaScript, HTML, CSS",
       description:
         "An application that displays real-time weather information for any city using the OpenWeather API.",
-      link: "https://github.com/yourusername/weather-app",
+      link: "https://github.com/arunbongi/weather-app",
+    },
+    {
+      title: "E-commerce Website",
+      description:
+        "A fully functional e-commerce platform where users can browse products, add them to a shopping cart, and complete purchases.",
+      tech: "React, Node.js, Express.js, MongoDB, Stripe API",
+      link: "https://github.com/yourusername/e-commerce-website",
+    },
+    {
+      title: "Blog Platform",
+      description:
+        "A platform where users can create, edit, and delete blog posts, as well as interact with others' posts.",
+      tech: "React, Node.js, Express.js, MongoDB, JWT Authentication, Cloudinary",
+      link: "https://github.com/yourusername/blog-platform",
     },
   ];
 

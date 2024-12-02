@@ -4,24 +4,28 @@ import "../styles/Footer.css";
 
 function Footer() {
   return (
-    <footer>
-      <p>&copy; 2024 Arun Bongi. All Rights Reserved.</p>
-      <div>
-        <a
-          href="https://www.linkedin.com/in/arun-bongi"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          LinkedIn
-        </a>
-        {" | "}
-        <a
-          href="https://github.com/yourusername"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          GitHub
-        </a>
+    <footer className="footer">
+      <div className="footer-content">
+        <p>© {new Date().getFullYear()} Arun Bongi. All Rights Reserved.</p>
+        <div className="social-links">
+          <a
+            href="https://www.linkedin.com/in/arun-bongi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>
+          {" | "}
+          <a
+            href="https://github.com/arunbongi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+          {" | "}
+          <a href="mailto:arun.bongi19@gmail.com">Email</a>
+        </div>
       </div>
     </footer>
   );

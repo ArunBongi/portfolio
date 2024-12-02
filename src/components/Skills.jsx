@@ -10,15 +10,53 @@ function Skills() {
     },
     {
       category: "Frameworks",
-      items: ["React", "Bootstrap", "Express.js"],
+      items: ["React", "Bootstrap", "Express.js", "Tailwind CSS"],
     },
     {
       category: "Tools & Platforms",
-      items: ["Git", "GitHub", "VSCode", "Agile Methodologies"],
+      items: [
+        "Git",
+        "GitHub",
+        "Bitbucket",
+        "VSCode",
+        "Agile Methodologies",
+        "Slack",
+        "Trello",
+      ],
     },
     {
       category: "Databases",
-      items: ["MySQL", "MongoDB"],
+      items: ["MySQL", "MongoDB", "PostgreSQL"],
+    },
+    {
+      category: "Web Development Skills",
+      items: [
+        "Responsive Web Design",
+        "Flexbox",
+        "CSS Grid",
+        "Media Queries",
+        "Sass",
+        "Web Performance Optimization",
+        "Lazy Loading",
+        "Image Optimization",
+        "SEO Optimization",
+      ],
+    },
+    {
+      category: "Authentication & Security",
+      items: ["OAuth", "JWT", "CORS", "HTTPS"],
+    },
+    {
+      category: "Design & Prototyping",
+      items: ["Figma", "Adobe XD", "Sketch"],
+    },
+    {
+      category: "Collaboration & Productivity",
+      items: ["Slack", "Trello", "Jira", "Agile/Scrum"],
+    },
+    {
+      category: "DevOps & Cloud",
+      items: ["AWS", "Azure", "Google Cloud Platform"],
     },
   ];
 
