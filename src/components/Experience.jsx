@@ -42,7 +42,7 @@ function Experience() {
       ],
     },
     {
-      company: "Tech Solutions LLC",
+      company: "Sunesis Innovations Core Tech PVT LTD",
       role: "Front-End Developer",
       period: "January 2020 - June 2020",
       responsibilities: [
@@ -54,7 +54,7 @@ function Experience() {
       ],
     },
     {
-      company: "NextGen Technologies",
+      company: "LearnerOut",
       role: "Back-End Developer Intern",
       period: "June 2019 - August 2019",
       responsibilities: [

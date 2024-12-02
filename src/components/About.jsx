@@ -1,4 +1,3 @@
-// src/components/About.jsx
 import React from "react";
 import "../styles/About.css";
 
@@ -7,14 +6,23 @@ function About() {
     <section className="about">
       <h2>About Me</h2>
       <p>
-        I am a passionate Web Developer with over 2 years of experience
-        specializing in front-end and back-end development using modern tools
-        like React, Node.js, and REST APIs. I strive to build intuitive and
-        responsive web applications.
+        Hi, I’m a <strong>Full Stack Web Developer</strong> passionate about
+        building modern, scalable, and user-centric applications. Over the
+        years, I’ve worked extensively with technologies like{" "}
+        <strong>React</strong>, <strong>Node.js</strong>, and{" "}
+        <strong>MongoDB</strong>, delivering solutions tailored to meet diverse
+        client needs.
       </p>
-      <a href="/assests/resume/ Arun Bongi.pdf" download className="resume-btn">
-        Download My Resume
-      </a>
+      <p>
+        My technical expertise spans multiple areas including languages,
+        frameworks, tools, and cloud platforms. For a detailed view of my
+        skills, check out the <a href="/skills">Skills</a> section.
+      </p>
+      <p>
+        I’m committed to delivering exceptional results, ensuring every project
+        is efficient, secure, and visually engaging. Let’s connect and create
+        something remarkable together!
+      </p>
     </section>
   );
 }
