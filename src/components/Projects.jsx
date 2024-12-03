@@ -29,7 +29,7 @@ function Projects() {
       description:
         "A fully functional e-commerce platform where users can browse products, add them to a shopping cart, and complete purchases.",
       tech: "React, Node.js, Express.js, MongoDB, Stripe API",
-      link: "https://github.com/yourusername/e-commerce-website",
+      link: "https://arunbongi.github.io/e-commerce/",
     },
     {
       title: "Blog Platform",
@@ -41,7 +41,7 @@ function Projects() {
   ];
 
   return (
-    <section className="projects">
+    <section id="projects" className="projects">
       <h2>Projects</h2>
       <div className="project-list">
         {projects.map((project, index) => (

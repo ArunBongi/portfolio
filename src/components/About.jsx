@@ -6,10 +6,10 @@ function About() {
     <section className="about">
       <h2>About Me</h2>
       <p>
-        Hi, I’m a <strong>Full Stack Web Developer</strong> passionate about
-        building modern, scalable, and user-centric applications. Over the
-        years, I’ve worked extensively with technologies like{" "}
-        <strong>React</strong>, <strong>Node.js</strong>, and{" "}
+        Hi, I’m a passionate <strong> Full Stack Web Developer</strong> with
+        over 3 years of experience in building scalable and efficient web
+        applications. Over the years, I’ve worked extensively with technologies
+        like <strong>React</strong>, <strong>Node.js</strong>, and{" "}
         <strong>MongoDB</strong>, delivering solutions tailored to meet diverse
         client needs.
       </p>
