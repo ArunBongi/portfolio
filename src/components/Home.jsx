@@ -10,11 +10,11 @@ function Home() {
         I’m Arun Bongi, a passionate full stack web developer with a knack for
         creating dynamic and responsive web applications.
       </p>
-      <button>
+      {/* <button>
         <a href="/projects" className="cta">
           View My Work
         </a>
-      </button>
+      </button> */}
     </section>
   );
 }

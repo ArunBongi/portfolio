@@ -16,7 +16,7 @@ function About() {
       <p>
         My technical expertise spans multiple areas including languages,
         frameworks, tools, and cloud platforms. For a detailed view of my
-        skills, check out the <a href="/skills">Skills</a> section.
+        skills, check out the Skills section.
       </p>
       <p>
         I’m committed to delivering exceptional results, ensuring every project

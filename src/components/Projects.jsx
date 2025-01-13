@@ -8,7 +8,7 @@ function Projects() {
       title: "Venue Booking System",
       description: "A platform for users to book venues in real time.",
       tech: "React, JavaScript, HTML, CSS",
-      link: "https://github.com/yourusername/venue-booking",
+      link: "https://github.com/arunbongi/venue-booking",
     },
     {
       title: "Todo List App",
@@ -29,14 +29,14 @@ function Projects() {
       description:
         "A fully functional e-commerce platform where users can browse products, add them to a shopping cart, and complete purchases.",
       tech: "React, Node.js, Express.js, MongoDB, Stripe API",
-      link: "https://arunbongi.github.io/e-commerce/",
+      link: "https://github.com/arunbongi/e-commerce",
     },
     {
       title: "Blog Platform",
       description:
         "A platform where users can create, edit, and delete blog posts, as well as interact with others' posts.",
       tech: "React, Node.js, Express.js, MongoDB, JWT Authentication, Cloudinary",
-      link: "https://github.com/yourusername/blog-platform",
+      link: "https://github.com/arunbongi/blog-platform",
     },
   ];
 
