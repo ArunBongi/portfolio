@@ -25,6 +25,8 @@ function Footer() {
           </a>
           {" | "}
           <a href="mailto:arun.bongi19@gmail.com">Email</a>
+          {" | "}
+          Phone: +1 7785485116
         </div>
       </div>
     </footer>

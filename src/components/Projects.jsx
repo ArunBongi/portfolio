@@ -8,13 +8,13 @@ function Projects() {
       title: "Venue Booking System",
       description: "A platform for users to book venues in real time.",
       tech: "React, JavaScript, HTML, CSS",
-      link: "https://github.com/arunbongi/venue-booking",
+      link: "https://arunbongi.github.io/venue-booking",
     },
     {
       title: "Todo List App",
       description: "A to-do list app to manage tasks.",
       tech: "React, JavaScript, HTML, CSS",
-      link: "https://github.com/arunbongi/todo-list",
+      link: "https://arunbongi.github.io/todo-list",
     },
     {
       title: "Weather App",
@@ -22,21 +22,21 @@ function Projects() {
       tech: "JavaScript, HTML, CSS",
       description:
         "An application that displays real-time weather information for any city using the OpenWeather API.",
-      link: "https://github.com/arunbongi/weather-app",
+      link: "https://arunbongi.github.io/weather-app",
     },
     {
       title: "E-commerce Website",
       description:
         "A fully functional e-commerce platform where users can browse products, add them to a shopping cart, and complete purchases.",
       tech: "React, Node.js, Express.js, MongoDB, Stripe API",
-      link: "https://github.com/arunbongi/e-commerce",
+      link: "https://arunbongi.github.io/e-commerce/",
     },
     {
       title: "Blog Platform",
       description:
         "A platform where users can create, edit, and delete blog posts, as well as interact with others' posts.",
       tech: "React, Node.js, Express.js, MongoDB, JWT Authentication, Cloudinary",
-      link: "https://github.com/arunbongi/blog-platform",
+      link: "https://arunbongi.github.io/blog-platform",
     },
   ];
 
@@ -50,7 +50,7 @@ function Projects() {
             <p>{project.description}</p>
             <small>{project.tech}</small>
             <a href={project.link} target="_blank" rel="noopener noreferrer">
-              View on GitHub
+              View
             </a>
           </div>
         ))}
